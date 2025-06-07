@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": "USD",
+    "nombre": "Dólar Estadounidense",
+    "tasa_a_mxn": 17.00
+  },
+  {
+    "codigo": "EUR",
+    "nombre": "Euro",
+    "tasa_a_mxn": 18.50
+  },
+  {
+    "codigo": "GBP",
+    "nombre": "Libra Esterlina",
+    "tasa_a_mxn": 21.00
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "mi_pizzeria_sueldos",
+  "version": "1.0.0",
+  "description": "API para gestionar sueldos de empleados de pizzería (examen)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sqlite",
+    "sueldos",
+    "pizzeria"
+  ],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
